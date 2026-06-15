@@ -118,9 +118,7 @@ with col4:
 higher = 1 if higher == "Yes" else 0
 internet = 1 if internet == "Yes" else 0
 
-# ----------------------------------
-# Prediction
-# ----------------------------------
+#prediction
 
 if st.button("Predict Final Grade"):
 
